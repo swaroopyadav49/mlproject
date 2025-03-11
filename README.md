@@ -4,7 +4,7 @@
 
 - Open using Vs code or pycharm.
 
-- Creating a Environment using Terminal.
+- Creating a Environment using or opening Terminal.
 
 ```cmd
 conda create -p mlvenv python==3.9
@@ -33,11 +33,13 @@ pip install -r requirements.txt
 
 - follow the Git hub instrustions in to local Machine. 
 
-## Git commands or Git Instructions
+## Git commands or Git Instructions to be followed in local Machine.
 
 - git init
 
 - git add .
+
+- git status
 
 - git commit -m "initial commit"
 
